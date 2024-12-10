@@ -4,6 +4,9 @@ import numpy as np
 import streamlit as st
 from PIL import Image
 
+import pathlib
+pathlib.PosixPath = pathlib.WindowsPath
+
 @st.cache_resource
 def load_model():
     # Custom YOLOv5 model load
@@ -40,7 +43,7 @@ def draw_boxes(results, frame):
     return frame
 
 
-st.title("👚 이건 무슨 옷이야?== 🩳")
+st.title("👚 이건 무슨 옷이야? 🩳")
 
 
 model = load_model()
@@ -59,3 +62,4 @@ if uploaded_file is not None:
         image_with_boxes = draw_boxes(results, cv_image)
         
         st.image(image_with_boxes, channels="BGR")
+
