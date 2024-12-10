@@ -2,10 +2,11 @@
 
 ## 옷의 종류를 구별해주는 객체 탐지 프로그램
 
-##Introduction
+## Introduction
 
-##Goal
+## Goal
 
-##Tech
+## Demo video
 
-##Demo Video
+
+
