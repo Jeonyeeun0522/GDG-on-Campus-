@@ -2,9 +2,9 @@
 
 ## 👕 옷을 구별해주는 AI 서비스 👕
 
-<img src = "[Your Image Addr](https://github.com/user-attachments/assets/b604edeb-1994-4663-bbdd-212dd4336a1b)" width="width 30%" height="height 30%">
 
 ## Introduction
+![스트림릿 실행](https://github.com/user-attachments/assets/9c560a4b-2c99-4456-a0c5-e0d08d22ee7b)
 - 주요 기능
 - 
 ## Goal
