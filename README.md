@@ -1,13 +1,19 @@
 # GDG on Campus AI/ML 개인 프로젝트
 
-## 👚 AI를 통해 옷의 종류를 구별해주는 프로그램
+## 👚 옷을 구별해주는 AI 서비스
 
 ## Introduction
 - 주요 기능
 - 
 ## Goal
 -
-- 
+
+## Technolog Stack 
+- Yolov6s
+- Python
+- PyTorch
+- Streamlit
+  
 ## 📹 Demo video
 
 
