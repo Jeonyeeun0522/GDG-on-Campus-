@@ -24,6 +24,6 @@
 4. streamlit을 통해 데모 애플리케이션 만들기
    
 ## 📹 Demo video
-
+![clothes_yolov5s_demo video](https://github.com/user-attachments/assets/dfb8f9e8-31d1-4b9f-8df3-ff5b844c6121)
 
 
