@@ -9,7 +9,7 @@
 -
 
 ## Technolog Stack 
-- Yolov6s
+- Yolov5s
 - Python
 - PyTorch
 - Streamlit
