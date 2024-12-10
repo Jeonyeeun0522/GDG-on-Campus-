@@ -4,7 +4,7 @@
 ![스트림릿 실행](https://github.com/user-attachments/assets/9c560a4b-2c99-4456-a0c5-e0d08d22ee7b)
 
 ## Introduction
-- 
+- [Outerwear, knitwear, Sweatshirts, Tees,Pants, Headwear, accessories] 중 하나로 종류로 나눠 옷을 구별해줍니다.
 
 
 ## Goal
@@ -18,7 +18,8 @@
   
 1. 이미지 크롤링
 2. 이미지 라벨링
-3. train데이터와 val 데이터로 나눠서 훈련시키기
+- [Outerwear, knitwear, Sweatshirts, Tees,Pants, Headwear, accessories] 7개 클래스로 라벨링 
+3.  train데이터와 val 데이터로 나눠서 훈련시키기
 4. streamlit을 통해 데모 애플리케이션 만들기
    
 ## 📹 Demo video
