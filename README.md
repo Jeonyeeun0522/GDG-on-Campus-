@@ -1,3 +1,11 @@
 # GDG on Campus 개인 프로젝트
 
-## 의류 데이터 구분해주기
+## 옷의 종류를 구별해주는 객체 탐지 프로그램
+
+##Introduction
+
+##Goal
+
+##Tech
+
+##Demo Video
