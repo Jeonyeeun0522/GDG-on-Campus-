@@ -8,7 +8,7 @@
 ## Goal
 -
 
-## Technolog Stack 
+## Technology Stack 
 - Yolov5s
 - Python
 - PyTorch
