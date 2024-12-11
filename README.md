@@ -24,7 +24,7 @@
 2. 이미지 라벨링
     [Outerwear, knitwear, Sweatshirts, Tees, Pants, Headwear, accessories] 7개 클래스로 라벨링
 
-    **reference (https://github.com/HumanSignal/labelImg)
+    ***reference (https://github.com/HumanSignal/labelImg)***
 
 4. train데이터와 val 데이터로 나눠서 훈련시키기
 5. streamlit을 통해 데모 애플리케이션 만들기
