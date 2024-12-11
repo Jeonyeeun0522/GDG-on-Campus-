@@ -11,10 +11,10 @@
 - 이미지를 촬영하면 이 옷의 브랜드가 무엇인지 인식해주는 프로그램으로 발전시키고 싶다. 
 
 ## Technology Stack 
-- *Yolov5s
-- * *Python
-- * *PyTorch
-- * *Streamlit
+- Yolov5s
+- Python
+- PyTorch
+- Streamlit
   
 1. 이미지 크롤링
    (teket 의류 브랜드의 이미지를 이용했다.)
